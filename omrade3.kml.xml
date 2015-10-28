@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Soner</name>
+		<Placemark>
+			<name>Sone 3</name>
+			<description><![CDATA[Uti gokk]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>10.371093799999999,63.9711402,0.0 9.096262800000002,63.78791939999999,0.0 8.3386231,63.423488400000004,0.0 8.2805445,62.82779800000001,0.0 8.7231445,62.4361584,0.0 10.3761324,62.1949346,0.0 11.8872071,62.329208400000006,0.0 12.3606896,62.818463,0.0 12.3376465,63.44068639999999,0.0 11.5408569,63.8762189,0.0 10.371093799999999,63.9711402,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-00FF22-1-76-normal'>
+			<LineStyle>
+				<color>ff22FF00</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C22FF00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-00FF22-1-76-highlight'>
+			<LineStyle>
+				<color>ff22FF00</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C22FF00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-00FF22-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-00FF22-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-00FF22-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EEFF00-1-76-normal'>
+			<LineStyle>
+				<color>ff00FFEE</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00FFEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-EEFF00-1-76-highlight'>
+			<LineStyle>
+				<color>ff00FFEE</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00FFEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-EEFF00-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EEFF00-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EEFF00-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF0000-1-76-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FF0000-1-76-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FF0000-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF0000-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF0000-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
